@@ -94,8 +94,7 @@ cd zoom-clone</pre>
     <li>Use the video, audio, chat, and other features during the meeting.</li>
   </ol>
 
-  <h2>Screenshots</h2>
-  <p>Include screenshots of the app interface (e.g., login page, meeting room, chat interface).</p>
+  
 
   <h2>Contributing</h2>
   <p>Contributions are welcome! Follow these steps:</p>
